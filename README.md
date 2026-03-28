@@ -1,6 +1,6 @@
 # 🏥 Clinic Management System (Live Project)
 
-🔗 **Live Demo:** https://arbaz18.pythonanywhere.com/
+🔗 Live Demo: https://arbaz18.pythonanywhere.com/login
 **Demo Username:** ali
 **Demo Password:** clinic
 
