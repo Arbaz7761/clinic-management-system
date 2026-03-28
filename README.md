@@ -73,11 +73,12 @@ python app.py
 ## 📷 Screenshots
 
 ### 🔐 Login Page
-![Login](login.png)
+<img src="login.png" width="600"/>
 
 ### 📊 Dashboard
-![Dashboard](dashboard(2).png)
+<img src="dashboard.png" width="600"/>
 
 ### 📈 Analytics
-![Analytics](chart.png)
+<img src="chart.png" width="600"/>
+
 **Arbaz Ali**
