@@ -81,4 +81,11 @@ python app.py
 ### 📈 Analytics
 <img src="chart.png" width="600"/>
 This project demonstrates real-world data handling, analytics, and system design aligned with data engineering concepts.
+
+## 📌 Future Improvements
+- Add role-based access (Admin/Doctor)
+- Integrate REST API for scalability
+- Enhance analytics with advanced dashboards
+  
+  **AUTHOR**
 **Arbaz Ali**
