@@ -76,7 +76,7 @@ python app.py
 ![Login](login.png)
 
 ### 📊 Dashboard
-![Dashboard](dashboard.png)
+![Dashboard](dashboard (2).png)
 
 ### 📈 Analytics
 ![Analytics](chart.png)
