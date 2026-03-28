@@ -70,7 +70,16 @@ python app.py
 ```
 
 ---
+## 📷 Screenshots
 
+### 🔐 Login Page
+![Login](login.png)
+
+### 📊 Dashboard
+![Dashboard](dashboard.png)
+
+### 📈 Analytics
+![Analytics](chart.png)
 ## 📌 Author
 
 **Arbaz Ali**
