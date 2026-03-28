@@ -76,10 +76,8 @@ python app.py
 ![Login](login.png)
 
 ### 📊 Dashboard
-![Dashboard](dashboard (2).png)
+![Dashboard](dashboard(2).png)
 
 ### 📈 Analytics
 ![Analytics](chart.png)
-## 📌 Author
-
 **Arbaz Ali**
