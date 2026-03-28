@@ -1,18 +1,76 @@
-🔗 Live Demo: https://arbaz18.pythonanywhere.com/
-# apna-demo
-🧠 This is my first GitHub project!
+# 🏥 Clinic Management System (Live Project)
 
-## 📌 About
-This repository contains my first demo project where I practiced Git & GitHub.
+🔗 **Live Demo:** https://arbaz18.pythonanywhere.com/
+**Demo Username:** ali
+**Demo Password:** clinic
 
-## 🛠 Tech Used
-- HTML
+---
 
-## 🔗 Links
-- LeetCode: https://leetcode.com/Arbaz_Ali18
-- GitHub: https://github.com/Arbaz7761/apna-demo
+## 📌 Project Overview
 
-## 🎯 Goal
-Learning GitHub basics and uploading my first project!
+This is a **data-driven clinic management system** designed to manage patient records, appointments, and healthcare operations efficiently. The system also provides basic analytics and visualization for better decision-making.
 
+---
 
+## 🚀 Features
+
+* Patient registration and management
+* Secure login system (authentication)
+* Appointment and record tracking
+* Real-time search and dynamic updates (AJAX)
+* Data visualization using charts
+* CSV report generation using Pandas
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend:
+
+* HTML, CSS, Bootstrap
+* JavaScript (AJAX)
+
+### Backend:
+
+* Python
+* Flask
+
+### Database:
+
+* SQLite
+* SQL
+
+### Data & Analytics:
+
+* Pandas
+* Chart.js
+
+### Deployment:
+
+* PythonAnywhere
+
+---
+
+## 💡 Key Highlights
+
+* Built a full-stack web application
+* Implemented CRUD operations using SQL
+* Designed a **data-driven system with real-time analytics and visualization**
+* Structured system for future ETL and data engineering workflows
+
+---
+
+## ▶️ How to Run Locally
+
+```bash
+git clone https://github.com/Arbaz7761/clinic-management-system.git
+cd clinic-management-system
+pip install -r requirements.txt
+python app.py
+```
+
+---
+
+## 📌 Author
+
+**Arbaz Ali**
